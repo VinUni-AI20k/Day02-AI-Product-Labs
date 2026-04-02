@@ -496,11 +496,7 @@ Một quyết định tốt không nhất thiết phải “Go to production”.
 
 ---
 
-<<<<<<< HEAD:day-02/02-deliverable-example.md
 # Phase 6 — AI Support Log
-=======
-## Reflection Log
->>>>>>> main:02-deliverable-example.md
 
 | Câu hỏi | Trả lời |
 |---------|---------|
