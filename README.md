@@ -40,8 +40,7 @@ Phase 6  REFLECTION             10 min   Cá nhân: Reflection Log + reflection
 HoTen-day02.zip
 ├── 01-problem-scan.md            ← 5+ bài toán qua 4 Lenses + 3 Quick Cards + kill rationale
 ├── 02-deep-dive-report.md        ← Workflow + PS 6-field + metrics + research + AI fit + Go/No-Go
-├── 03-ai-log.md                  ← AI giúp gì, sai gì, nhóm sửa gì
-├── 04-workflow-diagram.png/pdf   ← Current-state + future-state flow
+├── 03-reflection-log.md          ← AI giúp gì, sai gì, nhóm sửa gì
 └── extras/                       ← Không bắt buộc
 ```
 

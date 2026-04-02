@@ -441,8 +441,7 @@ Trong quá trình làm lab, tôi đã dùng AI (ChatGPT) ở các bước sau:
 HoTen-day02.zip                       ← Ví dụ: NguyenVanMinh-day02.zip
 ├── 01-problem-scan.md                ← 5+ bài toán qua 4 Lenses + 3 Quick Cards + kill rationale
 ├── 02-deep-dive-report.md            ← Workflow + PS 6-field + metrics + research + AI fit + Go/No-Go
-├── 03-ai-log.md                      ← AI giúp gì, sai gì, nhóm sửa gì
-├── 04-workflow-diagram.png/pdf       ← Current-state + future-state flow (vẽ tay hoặc digital)
+├── 03-reflection-log.md              ← AI giúp gì, sai gì, nhóm sửa gì
 └── extras/                           ← Không bắt buộc
     ├── research-notes.md
     ├── screenshots/
@@ -451,8 +450,8 @@ HoTen-day02.zip                       ← Ví dụ: NguyenVanMinh-day02.zip
 
 ### Lưu ý
 
-- **Mỗi người nộp 1 zip riêng** — kể cả file nhóm (02, 04) cũng nộp trong zip cá nhân
+- **Mỗi người nộp 1 zip riêng** — kể cả file nhóm (02) cũng nộp trong zip cá nhân
 - **Tên file zip**: `HoTen-day02.zip` (không dấu, không khoảng trắng)
 - **File 01 và 03**: mỗi người viết riêng
-- **File 02 và 04**: cả nhóm viết chung — giống nhau trong zip của mọi thành viên
+- **File 02**: cả nhóm viết chung — giống nhau trong zip của mọi thành viên
 - **extras/**: tùy chọn — nộp thêm ghi chú, screenshot AI conversation, hoặc tài liệu bổ sung
