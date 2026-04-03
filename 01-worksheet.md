@@ -25,7 +25,7 @@
 |---|---:|---|---|
 | I1. Scan & Quick Cards | 15 | Scan & Filter Log | Breadth, 4 lenses, 3 cards đủ chất lượng |
 | I2. Pitch + Challenge Participation | 10 | Quan sát Phase 3 | Pitch rõ, challenge đúng 3 câu chuẩn, có phản biện chất lượng |
-| I3. AI Support Log + Reflection | 15 | AI Support Log | Honest reflection: AI giúp gì, sai gì, mình sửa gì, học gì |
+| I3. AI Support Log + Reflection | 15 | AI Support Log (log Phase 6 — Reflection) | Ghi lại AI hỗ trợ gì trong từng phase, sai/hời hợt ở đâu, học viên sửa gì bằng tay, và rút ra bài học gì cho bản thân |
 
 > **Nguyên tắc:** Một nhóm mạnh không đủ để kéo tất cả thành viên lên điểm cao. Mỗi người phải chứng minh được phần tư duy cá nhân.
 =======
@@ -56,7 +56,7 @@
 |---|---|---:|
 | Scan & Filter Log | Cá nhân | 15 |
 | Problem Deep-Dive | Nhóm | 60 |
-| AI Support Log | Cá nhân | 15 |
+| AI Support Log (log Phase 6 — Reflection) | Cá nhân | 15 |
 | Pitch + Challenge Participation | Cá nhân (coach quan sát) | 10 |
 
 > **Lưu ý:** Không có file riêng cho Pitch + Challenge Participation, nên phần này sẽ được coach/giảng viên đánh dấu trực tiếp trong lúc lab.
@@ -601,6 +601,8 @@ Bài toán của nhóm nằm ở ô nào? ___
 
 # Phase 6 — REFLECTION + AI SUPPORT LOG (Cá nhân, NO-AI)
 
+> **03-ai-log.md** là log dành riêng cho phase này. Học viên ghi lại trung thực toàn bộ quá trình tương tác với AI trong buổi lab — không phải để "báo cáo dùng AI", mà để phản ánh tư duy.
+
 ## I3. AI Support Log + Reflection (15 điểm)
 
 ### Tiêu chí chấm
@@ -648,7 +650,7 @@ Bài toán của nhóm nằm ở ô nào? ___
 - Metric kiểu “nhanh hơn / tốt hơn / user thích hơn”
 - Mặc định chọn Agent mà không justify
 - Không có fallback nếu AI sai
-- AI Support Log kiểu copy-paste, không phản ánh gì thật
+- AI Support Log (log Phase 6 — Reflection) kiểu copy-paste, không phản ánh gì thật
 
 ---
 

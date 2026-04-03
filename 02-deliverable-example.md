@@ -19,7 +19,7 @@ Trong rubric mới, điểm được chia theo hướng:
 - **Điểm cá nhân (40%)**
   - Scan breadth + Quick Problem Cards
   - Pitch + Challenge participation
-  - AI Support Log + Reflection
+  - AI Support Log (log Phase 6 — Reflection)
   - Individual understanding check
 - **Điểm nhóm (60%)**
   - Workflow Mapping
@@ -496,7 +496,7 @@ Một quyết định tốt không nhất thiết phải “Go to production”.
 
 ---
 
-# Phase 6 — AI Support Log
+# Phase 6 — AI Support Log (Log Phase Reflection)
 
 | Câu hỏi | Trả lời |
 |---------|---------|
@@ -557,7 +557,7 @@ Nó chưa chắc tuyệt đối xuất sắc vì vẫn còn một số assumptio
 HoTen-day02.zip
 ├── 01-problem-scan.md
 ├── 02-deep-dive-report.md
-├── 03-ai-log.md
+├── 03-ai-log.md          ← log Phase 6 Reflection
 ├── 04-workflow-diagram.png/pdf
 └── extras/
 ```

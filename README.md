@@ -92,7 +92,7 @@ Mỗi người nộp 1 zip: `HoTen-day02.zip`
 |------|------|-------|
 | `01-problem-scan.md` | Cá nhân | 5+ bài toán qua 4 Lenses + 3 Quick Cards + kill rationale |
 | `02-deep-dive-report.md` | Nhóm | Workflow + PS 6-field + metrics + research + AI fit + Go/No-Go |
-| `03-ai-log.md` | Cá nhân | AI giúp gì, sai gì, nhóm sửa gì |
+| `03-ai-log.md` | Cá nhân | Log cho Phase 6 — Reflection: ghi lại AI hỗ trợ gì trong từng phase, sai/hời hợt ở đâu, học viên sửa gì bằng tay — và điều gì thay đổi trong tư duy sau buổi lab |
 | `04-workflow-diagram.png/pdf` | Nhóm | Current-state + future-state flow |
 | `extras/` | Tùy chọn | Research notes, screenshots, tài liệu bổ sung |
 
@@ -120,7 +120,7 @@ Mỗi người nộp 1 zip: `HoTen-day02.zip`
 |-----------|------|-------|
 | Scan Breadth + Quick Problem Cards | 12 | Breadth, dùng 4 lenses, cards đủ chất lượng |
 | Pitch + Challenge Participation | 12 | Pitch rõ, challenge đúng trọng tâm, không đi nhờ nhóm |
-| AI Support Log + Reflection | 10 | Honest reflection, nhận ra AI giúp gì / sai gì |
+| AI Support Log + Reflection | 10 | Log Phase 6: ghi trung thực AI hỗ trợ gì, sai ở đâu, học viên sửa gì — và rút ra được bài học gì cho bản thân |
 | Individual Understanding Check | 6 | Trả lời được problem → metric → boundary → AI fit |
 
 ### C. Mức xếp loại
@@ -148,7 +148,7 @@ Rubric mới có phần cá nhân mạnh hơn, nên coach/TA cần ghi nhận ng
 
 - **Phase 3:** học viên có pitch rõ không, có challenge thật không
 - **Phase 5:** học viên có hiểu logic Go / Not Yet / No-Go không
-- **Phase 6:** AI Support Log có trung thực không
+- **Phase 6:** AI Support Log (log Phase Reflection) có trung thực không, có chỉ rõ AI sai ở đâu không, có rút ra bài học cụ thể không
 
 > Không cần chấm li ti từng hành vi. Chỉ cần đủ để phân biệt:
 > - học viên mạnh,
